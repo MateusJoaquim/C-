@@ -1,0 +1,19 @@
+using System;
+
+namespace TesteMateus;
+
+static class TesteMateus1
+{
+    public static void primeiro()
+    {
+
+        var Idade = new StringWriter();
+        Console.WriteLine("Digite sua idade");
+        Console.ReadLine();
+
+    }
+
+
+}
+
+)

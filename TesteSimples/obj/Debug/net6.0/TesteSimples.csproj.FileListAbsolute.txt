@@ -1,0 +1,15 @@
+C:\dev\TesteSimples\bin\Debug\net6.0\TesteSimples.exe
+C:\dev\TesteSimples\bin\Debug\net6.0\TesteSimples.deps.json
+C:\dev\TesteSimples\bin\Debug\net6.0\TesteSimples.runtimeconfig.json
+C:\dev\TesteSimples\bin\Debug\net6.0\TesteSimples.dll
+C:\dev\TesteSimples\bin\Debug\net6.0\TesteSimples.pdb
+C:\dev\TesteSimples\obj\Debug\net6.0\TesteSimples.csproj.AssemblyReference.cache
+C:\dev\TesteSimples\obj\Debug\net6.0\TesteSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteSimples\obj\Debug\net6.0\TesteSimples.AssemblyInfoInputs.cache
+C:\dev\TesteSimples\obj\Debug\net6.0\TesteSimples.AssemblyInfo.cs
+C:\dev\TesteSimples\obj\Debug\net6.0\TesteSimples.csproj.CoreCompileInputs.cache
+C:\dev\TesteSimples\obj\Debug\net6.0\TesteSimples.dll
+C:\dev\TesteSimples\obj\Debug\net6.0\refint\TesteSimples.dll
+C:\dev\TesteSimples\obj\Debug\net6.0\TesteSimples.pdb
+C:\dev\TesteSimples\obj\Debug\net6.0\TesteSimples.genruntimeconfig.cache
+C:\dev\TesteSimples\obj\Debug\net6.0\ref\TesteSimples.dll
